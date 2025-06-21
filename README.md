@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SharanbabuB
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Python and Web Development
+- 👀 I’m interested in Software Development Engineering
+- 🌱 I’m currently learning Java, Machine Learning and Web Development
 - 📫 How to reach me sharanbabu545@gmail.com
 - 😄 Pronouns: He/His
 
